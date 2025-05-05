@@ -241,4 +241,7 @@ footer {
 	.right-side-icon-container {
 		gap: 10px
 	}
+	.navbar {
+		padding: 0;
+	}
 }
