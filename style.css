@@ -240,12 +240,15 @@ footer {
 		font-size: 20px
 	}
 	.right-side-icon-container {
-		gap: 10px
+		gap: 20px
 	}
 	.navbar {
 		padding: 0;
 	}
-	.a-tag1 {
-		display: none;
+	.logo {
+		width: 150px;
+	}
+	.image-top-text {
+		font-size: 30px;
 	}
 }
